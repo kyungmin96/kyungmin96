@@ -24,17 +24,12 @@ GPA : 3.76/4.5
 <br>
 
 ### 경력
-한화시스템 레이다시스템기술팀(2023.04~2024.04)<br>
+한화시스템 용인연구소 레이다시스템기술팀(2023.04~2024.04)<br>
 연구원/시스템시험
 
 ### 수상
 우수논문상(2023.11)<br>
 한국전자파학회 2023 추계학술대회 포스터 발표
-
-
-
-
-
 <br>
 
 ## Contact 📞
@@ -52,7 +47,7 @@ GPA : 3.76/4.5
 
 <details>
 <summary>
-  and else...
+  and else ...
 </summary>
   <div style="display:flex; flex-direction:row;">
     <a href="https://open.spotify.com/user/312e4sqf6k6niivqpsznq4edo6pq?si=D-2--rgjQcukficdBVCLow">
@@ -68,5 +63,7 @@ GPA : 3.76/4.5
 </details>
 
 <br>
+
+## Languages & Frameworks
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin96)
