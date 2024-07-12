@@ -66,3 +66,7 @@ GPA : 3.76/4.5
         SoundCloud-FF5500?style=for-the-badge&logo=SoundCloud&logoColor=white">
     </a>
 </details>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin96)
