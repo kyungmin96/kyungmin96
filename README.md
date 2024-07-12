@@ -49,14 +49,12 @@ GPA : 3.76/4.5
 </summary>
   <div style="display:flex; flex-direction:row;">
     <a href="https://open.spotify.com/user/312e4sqf6k6niivqpsznq4edo6pq?si=D-2--rgjQcukficdBVCLow">
-        <img src="https://img.shields.io/badge/
-        Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white"> 
     </a>
     </div>
     <a
     href="https://on.soundcloud.com/wMuy3">
-        <img src="https://img.shields.io/badge/
-        SoundCloud-FF5500?style=for-the-badge&logo=SoundCloud&logoColor=white">
+        <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=SoundCloud&logoColor=white">
     </a>
 </details>
 
