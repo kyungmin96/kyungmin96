@@ -35,14 +35,12 @@ GPA : 3.76/4.5
 ## Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:mok9603@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     </div>
     <a
     href="mailto:mok9603@naver.com">
-        <img src="https://img.shields.io/badge/
-        Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
     </a>
 
 <details>
@@ -67,3 +65,6 @@ GPA : 3.76/4.5
 ## Languages & Frameworks
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungmin96)
+
+<br>
+
